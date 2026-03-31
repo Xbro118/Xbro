@@ -1,0 +1,12 @@
+{
+  "accessKeyId": "YOUR_ACCESS_KEY_ID",
+  "accessKeySecret": "YOUR_ACCESS_KEY_SECRET",
+  "region": "oss-cn-hangzhou",
+  "bucket": "your-bucket-name",
+  "uploadPath": "dist/",
+  "deleteBeforeUpload": true,
+  "ignore": [
+    ".DS_Store",
+    "Thumbs.db"
+  ]
+}
